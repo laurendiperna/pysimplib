@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name =  'pysimplib_LD',
   packages = ['pysimplib_LD'],
-  version = '0.1',
+  version = '0.21',
   description = 'A tutorial lib',
   author = 'Liran BH',
   author_email = 'liran@discoversdk.com',
